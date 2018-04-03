@@ -8,8 +8,6 @@
         "symfony/flex": "^1.0",
         "symfony/framework-bundle": "^4.0",
         "symfony/lts": "^4@dev",
-        "symfony/twig-bundle": "^4.0",
-        "symfony/web-server-bundle": "^4.0",
         "symfony/yaml": "^4.0"
     },
     "require-dev": {
@@ -57,6 +55,6 @@
             "id": "",
             "allow-contrib": false
         },
-        "symfony.id": "01C9M5MVH8TXWJ0PZB5DPN3XJN"
+        "symfony.id": "01C9KN7XPJHAR323YQQF1B0PPJ"
     }
 }
